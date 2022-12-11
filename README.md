@@ -34,7 +34,8 @@ Vous allez échanger beaucoup de documents avec votre mentor pendant votre forma
 
 Pendant votre première session de mentorat, discutez des outils de collaboration avec lesquels vous vous sentez tous les deux le plus à l’aise.
 
-## Étape n°6 : partez à la rencontre des autres étudiants de votre parcoursVous n’êtes pas seul ! Entre les sessions de mentorat, vous pourrez discuter avec d'autres étudiants et même d'autres mentors sur un canal de discussion Workplace (un forum en ligne). C'est l'endroit où se retrouvent les autres personnes qui suivent la formation ; essayez de vous y connecter au moins deux fois par semaine. Cela vous permettra de vous épauler entre étudiants et mentors, mais aussi d'obtenir une aide parfois très utile entre deux sessions de mentorat.
+## Étape n°6 : partez à la rencontre des autres étudiants de votre parcours
+Vous n’êtes pas seul ! Entre les sessions de mentorat, vous pourrez discuter avec d'autres étudiants et même d'autres mentors sur un canal de discussion Workplace (un forum en ligne). C'est l'endroit où se retrouvent les autres personnes qui suivent la formation ; essayez de vous y connecter au moins deux fois par semaine. Cela vous permettra de vous épauler entre étudiants et mentors, mais aussi d'obtenir une aide parfois très utile entre deux sessions de mentorat.
 
 Vous pouvez explorer les groupes auxquels vous avez été ajoutés, lire les derniers posts, et, si vous le souhaitez, vous présenter en quelques lignes dans le groupe dédié à votre parcours. 
 

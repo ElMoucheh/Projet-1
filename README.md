@@ -26,3 +26,23 @@ Vous venez de vous inscrire chez OpenClassrooms pour un parcours de formation, e
 Pour commencer du bon pied, nous vous proposons de vous fixer des objectifs dans le temps ! En fonction de votre emploi du temps personnel, du temps que vous souhaitez consacrer à la formation et de vos contraintes, déterminez les dates prévisionnelles de soutenance de chacun de vos projets. Vous pouvez vous appuyer sur ce que vous venez de compléter : les projets qui vous semblent les plus difficiles vous demanderont certainement un peu plus de travail que prévu.
 
 Ces dates sont des repères pour vous et votre mentor. Certains étudiants les affichent sur un mur à côté de leur bureau pour se rappeler de ces dates cibles, qui vont rythmer leur formation.
+
+## Étape n°5 : définissez un ou plusieurs outil(s) de collaboration avec votre mentor
+Chaque semaine, vous allez rencontrer votre mentor en visioconférence. Ces rencontres s’effectuent directement sur la plateforme d’OpenClassrooms, un outil de visioconférence y est intégré. 
+
+Vous allez échanger beaucoup de documents avec votre mentor pendant votre formation. Il ou elle va en effet vous donner des retours sur votre travail au fur et à mesure que vous le réaliserez. Beaucoup d’étudiants et de mentors ont un espace partagé, comme Drive, pour collaborer sur des documents. Certains utilisent également un outil de gestion de projet ou de communication comme Trello ou Notion.
+
+Pendant votre première session de mentorat, discutez des outils de collaboration avec lesquels vous vous sentez tous les deux le plus à l’aise.
+
+## Étape n°6 : partez à la rencontre des autres étudiants de votre parcoursVous n’êtes pas seul ! Entre les sessions de mentorat, vous pourrez discuter avec d'autres étudiants et même d'autres mentors sur un canal de discussion Workplace (un forum en ligne). C'est l'endroit où se retrouvent les autres personnes qui suivent la formation ; essayez de vous y connecter au moins deux fois par semaine. Cela vous permettra de vous épauler entre étudiants et mentors, mais aussi d'obtenir une aide parfois très utile entre deux sessions de mentorat.
+
+Vous pouvez explorer les groupes auxquels vous avez été ajoutés, lire les derniers posts, et, si vous le souhaitez, vous présenter en quelques lignes dans le groupe dédié à votre parcours. 
+
+## Étape n°7 : réalisez une veille technologique
+Dans le monde digital, les technologies évoluent très rapidement. C’est pour cette raison qu’il est important de suivre ce qu’il se passe dans le monde du développement. Cette veille sera également très utile pour connaître les compétences recherchées par les recruteurs.
+
+Pour réaliser votre veille, vous devrez choisir au moins 4 sources d’information de différentes natures pour vous tenir informé (influenceurs, newsletters, alertes Google, revues, réseaux sociaux, événements...).
+
+Réunissez-les dans un tableau de bord que vous pourrez suivre régulièrement ! Vous devrez pouvoir éditer ce tableau et retrouver les informations stockées à l’intérieur.
+
+Vous pouvez utiliser un grand nombre d’applications en ligne ou hors ligne telles qu’Evernote, Pocket, Figgle, Feedly, Twitter ou même Google Keep pour trier et sauvegarder vos sources.

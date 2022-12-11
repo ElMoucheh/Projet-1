@@ -3,7 +3,7 @@ Bienvenue dans votre formation OpenClassrooms !
 
 L’objectif de ce premier projet est de vous mettre dans les meilleures conditions pour réussir votre parcours, puis votre évolution professionnelle. Vous devriez pouvoir le terminer en une ou deux semaines maximum.
 
-[![Product Name Screen Shot][https://user.oc-static.com/upload/2022/07/27/16589142366577_Banner_Welcome.png]]
+![Bienvenue](https://user.oc-static.com/upload/2022/07/27/16589142366577_Banner_Welcome.png)
 
 Notez cependant que le format des projets sera différent par la suite ! Vous serez immergé dans le monde professionnel, et réaliserez des livrables comme dans une vraie vie professionnelle.
 
